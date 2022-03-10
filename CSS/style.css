@@ -33,6 +33,12 @@ body{
     border-radius: 100px;
 
 }
+.divmenu, .mylogo{
+    margin-left: 5%;
+}
+.btn-togg{
+    margin-right: 4%;
+}
 .skillDiv{
     padding: 10px;
     top: 800px;
