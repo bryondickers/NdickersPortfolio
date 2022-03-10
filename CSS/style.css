@@ -1,0 +1,47 @@
+
+body{
+    background: #072227;
+}
+#homeSection{
+    background-image:url('../imgs/compimage2.jpg');
+    background-repeat: round;
+    width:100%;
+    height: 85vh;
+    max-height:100vh;
+    padding: 10px;
+}
+
+ #homeSection h1,h2{
+    position: relative;
+    left:auto;
+    right: auto;
+    top: 170px;
+    color: #ffff;
+}
+
+#profileSection{
+    width: 100%;
+    text-align: center;
+    background: #000000;
+    height: 100vh;
+    color: white;
+
+    }
+#profileSection img{
+    height:140px;
+    width: 140px;
+    border-radius: 100px;
+
+}
+.skillDiv{
+    padding: 10px;
+    top: 800px;
+    color: #ffff;
+    text-align: center;
+}
+.skillDiv tr, th, td{
+    padding: 10px;
+}
+.profile_img, .message_divprof{
+    padding: 5% 10%;
+}
