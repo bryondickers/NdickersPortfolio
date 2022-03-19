@@ -6,9 +6,17 @@ body{
     background-image:url('../imgs/compimage2.jpg');
     width:100%;
     height: 80vh;
-    background-repeat: round ;
+    background-repeat: round;
     padding: 10px;
 }
+@media(max-width:760px){
+    #homeSection{
+        background-repeat: no-repeat;
+        height: 100vh;
+        width: 100vw;
+    }
+}
+
 
 .navbar-nav{
     margin-right: 10%;
